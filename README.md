@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
 Name : HARITHA RAMESH
-Roll no : 
-Date of experiment :
+Roll no : 212223100011
+Date of experiment : 16.08.2024
 
 
 
@@ -78,6 +78,9 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
+start:
+MOV AX,06
+MOV
 
 
 
