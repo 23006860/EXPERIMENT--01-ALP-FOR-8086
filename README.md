@@ -80,20 +80,37 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Addition  of 8 bit ALP 
 start:
 MOV AX,06
-MOV
+MOV BX,03
+ADD AX,BX
+HLT
 
 
 
 ## Output  
  
 ## Subtraction   of 8 bit numbers  ALP 
+start:
+MOV AX,06
+MOV BX,03
+SUB AX,BX
+HLT
  
 ## Output  
 ## Multiplication alp 
+start:
+MOV AX,01
+MOV BX,02
+MUL BX
+HLT
  ## Output  
 
 
 ## Division alp 
+start:
+MOV AX,10
+MOV BX,05
+DIV BX
+HLT
 
 ## Output  
 
