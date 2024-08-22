@@ -87,6 +87,8 @@ HLT
 
 
 ## Output  
+![Screenshot 2024-08-16 180426](https://github.com/user-attachments/assets/8cfc8827-fa4a-40d6-92f9-cc39f151d47d)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
 start:
@@ -96,6 +98,8 @@ SUB AX,BX
 HLT
  
 ## Output  
+![Screenshot 2024-08-16 180452](https://github.com/user-attachments/assets/874dab4d-8f42-4244-b725-caf6ddcecea8)
+
 ## Multiplication alp 
 start:
 MOV AX,01
@@ -103,6 +107,7 @@ MOV BX,02
 MUL BX
 HLT
  ## Output  
+![Screenshot 2024-08-16 183107](https://github.com/user-attachments/assets/47fc861f-da14-432d-a578-f304909edfa0)
 
 
 ## Division alp 
@@ -113,9 +118,10 @@ DIV BX
 HLT
 
 ## Output  
+![Screenshot 2024-08-16 183243](https://github.com/user-attachments/assets/78aff082-52a4-497c-9ef2-953caf20f859)
 
 
-## Result :
+## Result : Thus the code is successfully executed.
  
 
 
