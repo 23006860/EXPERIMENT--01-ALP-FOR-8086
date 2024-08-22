@@ -104,7 +104,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ![Screenshot 2024-08-16 183243](https://github.com/user-attachments/assets/78aff082-52a4-497c-9ef2-953caf20f859)
 
 
-## Result : Thus the  ALP on fundamental arithmetic and logical operations is written and executed successfully.
+## Result : 
+Thus the  ALP on fundamental arithmetic and logical operations is written and executed successfully.
 
 
 
