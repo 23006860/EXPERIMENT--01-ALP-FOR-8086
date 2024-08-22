@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
+Name : HARITHA RAMESH
+Roll no : 
 Date of experiment :
 
 
