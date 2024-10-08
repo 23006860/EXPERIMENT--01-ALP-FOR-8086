@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : HARITHA RAMESH
+Name : RAHUL V
 
-Roll no : 212223100011
+Roll no : 212223240133
 
 Date of experiment : 16.08.2024
 
@@ -106,6 +106,8 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Result : 
 Thus the  ALP on fundamental arithmetic and logical operations is written and executed successfully.
+
+
 
 
 
